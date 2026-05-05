@@ -1,0 +1,11 @@
+default list Form_Two_Report
+{
+
+			displayName = "Form Two Report"
+			show all rows from Form_Two    
+			(
+				Single_Line as "Single Line"
+				Number
+			)
+		
+}
