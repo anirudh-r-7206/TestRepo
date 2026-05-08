@@ -1,0 +1,11 @@
+default list ZRepo_Form_Report
+{
+
+			displayName = "ZRepo Form Report"
+			show all rows from ZRepo_Form    
+			(
+				Single_Line as "Single Line"
+				Number
+			)
+		
+}
