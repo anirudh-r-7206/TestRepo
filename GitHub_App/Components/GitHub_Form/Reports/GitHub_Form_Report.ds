@@ -1,0 +1,11 @@
+default list GitHub_Form_Report
+{
+
+			displayName = "GitHub Form Report"
+			show all rows from GitHub_Form    
+			(
+				Single_Line as "Single Line"
+				Number
+			)
+		
+}
