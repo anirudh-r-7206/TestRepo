@@ -2,7 +2,7 @@ form GitHub_Form
 {
 
 			displayname = "GitHub Form"
-			success message = "Data Added Successfully!"
+			success message = "Data Added Finally!"
 			Section
 			(
 				type = section
