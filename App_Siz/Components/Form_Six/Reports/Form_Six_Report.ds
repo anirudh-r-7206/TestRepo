@@ -1,0 +1,11 @@
+default list Form_Six_Report
+{
+
+			displayName = "Form Six Report"
+			show all rows from Form_Six    
+			(
+				Single_Line as "Single Line"
+				Number
+			)
+		
+}
