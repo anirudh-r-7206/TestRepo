@@ -1,0 +1,9 @@
+forms
+{
+
+			form Git_Form
+			{
+				label placement = auto
+			}
+		
+}
