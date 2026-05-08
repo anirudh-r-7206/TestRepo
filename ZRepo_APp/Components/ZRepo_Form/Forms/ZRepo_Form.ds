@@ -2,7 +2,7 @@ form ZRepo_Form
 {
 
 			displayname = "ZRepo Form"
-			success message = "Data Added Successfully!"
+			success message = "Data Added"
 			Section
 			(
 				type = section
