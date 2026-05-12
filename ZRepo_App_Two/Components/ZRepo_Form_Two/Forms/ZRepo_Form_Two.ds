@@ -2,7 +2,7 @@ form ZRepo_Form_Two
 {
 
 			displayname = "ZRepo Form Two"
-			success message = "Added in ZRepo Bruhhhhhhhh!"
+			success message = "Added in GIT Bruhhhhhhhh!"
 			Section
 			(
 				type = section
