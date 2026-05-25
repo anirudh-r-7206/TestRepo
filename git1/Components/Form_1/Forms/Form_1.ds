@@ -2,7 +2,7 @@ form Form_1
 {
 
 			displayname = "Form 1"
-			success message = "Data Added Successfully!"
+			success message = "GITTTTTData Added Successfully!"
 			Section
 			(
 				type = section
