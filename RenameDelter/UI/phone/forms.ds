@@ -9,5 +9,9 @@ forms
 			{
 				label placement = auto
 			}
+			form Form_Two
+			{
+				label placement = auto
+			}
 		
 }
