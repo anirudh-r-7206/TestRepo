@@ -19,6 +19,19 @@ menu
 						icon = "tech-desktop"
 					}
 				}
+				section Appointments
+				{
+					displayname = "Appointments"
+					icon = "ui-2-calendar"
+					form  Appointments
+					{
+						icon = "ui-2-calendar"
+					}
+					report All_Appointments
+					{
+						icon = "tech-desktop"
+					}
+				}
 				section App_Preferences
 				{
 					displayname = "App Preferences"

@@ -6,6 +6,7 @@ default list Form_One_Report
 			(
 				Single_Line as "Single Line"
 				Number
+				Nickname
 			)
 		
 }

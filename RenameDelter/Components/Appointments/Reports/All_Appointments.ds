@@ -1,21 +1,30 @@
 default list All_Appointments
 {
-    displayName = "All Appointments"
-    show all rows from Appointments
-    (
-        Title
-        (
-            islinkenabled = true
-        )
-        Client_Name
-        Appointment_Date
-        Start_Time
-        End_Time
-        Status
-        Phone
-        Email
-        Notes
-    )
-    filters ( Status  Appointment_Date )
-    sort by ( Appointment_Date descending )
+
+			displayName = "All Appointments"
+			show all rows from Appointments    
+			(
+				Title
+				(
+					isLinkEnabled = true
+				)
+				Client_Name 
+				Appointment_Date
+				Start_Time
+				End_Time
+				Status
+				Phone
+				Email
+				Notes
+			)
+			filters
+			(
+				Status
+				Appointment_Date
+			)
+			sort by
+			(
+				Appointment_Date descending
+			)
+		
 }

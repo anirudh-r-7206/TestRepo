@@ -1,6 +1,10 @@
 forms
 {
 
+			form Appointments
+			{
+				label placement = left
+			}
 			form Form_One
 			{
 				label placement = left

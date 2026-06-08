@@ -1,4 +1,4 @@
-report Form_One_Report
+report All_Appointments
 {
 
 				quickview
@@ -9,9 +9,12 @@ report Form_One_Report
 						(
 							fields
 							(
-								Single_Line as "Single Line"
-								Number
-								Nickname
+								Title
+								Client_Name
+								Appointment_Date
+								Start_Time
+								End_Time
+								Status
 							)
 						)
 					)
@@ -54,8 +57,15 @@ report Form_One_Report
 						(
 							fields
 							(
-								Single_Line as "Single Line"
-								Number
+								Title
+								Client_Name
+								Email
+								Phone
+								Appointment_Date
+								Start_Time
+								End_Time
+								Status
+								Notes
 							)
 						)
 					)

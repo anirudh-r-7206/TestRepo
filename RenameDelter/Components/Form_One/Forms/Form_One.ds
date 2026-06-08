@@ -10,7 +10,23 @@ form Form_One
 	 			column = 0   
 				width = medium
 			)
+			Single_Line
+			(
+    			type = text
+				displayname = "Single Line"
+	 			row = 1
+	 			column = 1   
+				width = medium
+			)
 			Single_Line2
+			(
+    			type = text
+				displayname = "Single Line"
+	 			row = 1
+	 			column = 1   
+				width = medium
+			)
+			Single_Line1
 			(
     			type = text
 				displayname = "Single Line"
@@ -20,11 +36,9 @@ form Form_One
 			)
 			Nickname
 			(
-				type = text
-				displayname = "Nickname"
-				maxchar = 255
+    			type = text
 	 			row = 1
-	 			column = 1
+	 			column = 1   
 				width = medium
 			)
 			Number
