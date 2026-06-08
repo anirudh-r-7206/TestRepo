@@ -18,6 +18,15 @@ form Form_One
 	 			column = 1   
 				width = medium
 			)
+			Nickname
+			(
+				type = text
+				displayname = "Nickname"
+				maxchar = 255
+	 			row = 1
+	 			column = 1
+				width = medium
+			)
 			Number
 			(
 				type = number
