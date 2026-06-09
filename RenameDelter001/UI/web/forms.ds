@@ -1,0 +1,17 @@
+forms
+{
+
+			form Appointments
+			{
+				label placement = left
+			}
+			form Form_Five
+			{
+				label placement = left
+			}
+			form Form_Two
+			{
+				label placement = left
+			}
+		
+}

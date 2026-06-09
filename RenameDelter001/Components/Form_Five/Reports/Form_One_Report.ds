@@ -1,0 +1,12 @@
+default list Form_One_Report
+{
+
+			displayName = "Form One Report"
+			show all rows from Form_Five    
+			(
+				Single_Line as "Single Line"
+				Number
+				Nickname
+			)
+		
+}
