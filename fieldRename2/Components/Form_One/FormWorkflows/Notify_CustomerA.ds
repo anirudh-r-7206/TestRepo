@@ -1,0 +1,21 @@
+Notify_CustomerA as "Notify CustomerA"
+{
+
+				type =  form
+				form = Form_One
+
+				record event = on add
+
+				on success
+				{
+					actions 
+					{
+						custom deluge script
+						(
+											info input.Single_LineA;
+						)
+					}
+				}
+
+			
+}
