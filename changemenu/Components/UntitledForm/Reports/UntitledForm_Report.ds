@@ -1,0 +1,11 @@
+default list UntitledForm_Report
+{
+
+			displayName = "UntitledForm Report"
+			show all rows from UntitledForm    
+			(
+				Single_Line as "Single Line"
+				Number
+			)
+		
+}
